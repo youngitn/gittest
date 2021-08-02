@@ -6,4 +6,8 @@
 222
 hello
 333
+<<<<<<< HEAD
 local change
+=======
+github change
+>>>>>>> 7ad6718c443e1bc78d2144755ad74e1bddb9c55d
